@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+div{
+	background-color: lightblue;
+	border: 2px solid black;
+	margin: auto;
+	width: 50%;
+	height: 300px;
+	position: relative;
+	top: 100px;
+	left: 100px;
+}
+
+div p{
+	position: relative;
+	top: 120px;
+	left: 120px;
+}
